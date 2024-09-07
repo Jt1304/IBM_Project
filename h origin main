@@ -1,0 +1,30 @@
+[33mcommit f1f2245295c1a52712666dbf064064d922af85d8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 04b2a2f 70866b8
+Author: Joe Touma <joe.touma@net.usj.edu.lb>
+Date:   Sat Sep 7 21:41:33 2024 +0300
+
+    Merge branch 'main' of https://github.com/Jt1304/IBM_Project
+
+[33mcommit 04b2a2fd69bee732966489440e730427f736abb8[m[33m ([m[1;32mjt/branch[m[33m)[m
+Author: Joe Touma <joe.touma@net.usj.edu.lb>
+Date:   Sat Sep 7 21:35:33 2024 +0300
+
+    Added necessary files for the project
+
+[33mcommit 70866b8ac8cfe000d7daf6af0fa8629b51d7345a[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Jt1304 <joetouma13@gmail.com>
+Date:   Fri Aug 30 19:52:38 2024 +0300
+
+    Create file1.py
+
+[33mcommit 3b37b77d52355338d5a9a1ec114f88317f3e87d9[m
+Author: Jt1304 <joetouma13@gmail.com>
+Date:   Fri Aug 30 19:49:53 2024 +0300
+
+    Update README.md
+
+[33mcommit 199e6346bda511fac263c21c030a7e81ef7c6c50[m
+Author: Jt1304 <joetouma13@gmail.com>
+Date:   Fri Aug 30 19:48:56 2024 +0300
+
+    Create README.md
